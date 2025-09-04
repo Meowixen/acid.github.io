@@ -1,0 +1,29 @@
+body{
+	font-family:Calibri, Arial, "Liberation Sans";
+}
+h1{
+	font-family:"Trebuchet MS" !important
+}
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.nav .navbutton{
+  float: left;
+}
+
+.nav .navbutton .hyperlink{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav .navbutton .hyperlink:hover{
+  background-color: #111111;
+}
